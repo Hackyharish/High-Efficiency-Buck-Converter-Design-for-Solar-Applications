@@ -115,26 +115,26 @@ The converter is designed to achieve:
 ## 📊 Simulation Models and Results
 
 ### 🔹 Simulink Model Overview
-![Simulink Model](Results/simulink_model.png)
+![Simulink Model](Simulation,png)
 
 ### 🔹 MPPT Power Tracking
-![PV Power Tracking](Results/mppt_power_tracking.png)
+![PV Power Tracking](MPPT_plot.png)
 
 ### 🔹 Converter Performance (1000 W/m²)
-![Output Waveforms 1000W](Results/output_waveforms_1000w.png)
-![Input Waveforms 1000W](Results/input_waveforms_1000w.png)
+![Output Waveforms 1000W](1000_OP.png)
+![Input Waveforms 1000W](1000_IP.png)
 
 ### 🔹 Converter Performance (800 W/m²)
-![Output Waveforms 800W](Results/output_waveforms_800w.png)
-![Input Waveforms 800W](Results/input_waveforms_800w.png)
+![Output Waveforms 800W](800_IP.png)
+![Input Waveforms 800W](800_OP.png)
 
 ### 🔹 Converter Performance (600 W/m²)
-![Output Waveforms 600W](Results/output_waveforms_600w.png)
-![Input Waveforms 600W](Results/input_waveforms_600w.png)
+![Output Waveforms 600W](600_IP.png)
+![Input Waveforms 600W](600_OP.png)
 
 ### 🔹 Converter Performance (400 W/m²)
-![Output Waveforms 400W](Results/output_waveforms_400w.png)
-![Input Waveforms 400W](Results/input_waveforms_400w.png)
+![Output Waveforms 400W](400_IP.png)
+![Input Waveforms 400W](400_OP.png)
 
 ### 🔹 Battery Charging Stages
 ![Battery Charging Phases](Results/battery_charging_stages.png)
