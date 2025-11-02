@@ -115,7 +115,7 @@ The converter is designed to achieve:
 ## 📊 Simulation Models and Results
 
 ### 🔹 Simulink Model Overview
-![Simulink Model](Simulation,png)
+![Simulink Model](Simulation.png)
 
 ### 🔹 MPPT Power Tracking
 ![PV Power Tracking](MPPT_plot.png)
