@@ -53,7 +53,7 @@ The proposed system is designed for **solar PV battery charging** using a high-e
    - Implements a **three-stage charging algorithm** for safe and efficient battery management.
 
 ### 🔹 System Block Diagram
-![System Design](Results/system_design.png)
+![System Design](Block_diagram_1.png)
 
 ---
 
@@ -137,7 +137,7 @@ The converter is designed to achieve:
 ![Input Waveforms 400W](400_OP.png)
 
 ### 🔹 Battery Charging Stages
-![Battery Charging Phases](Results/battery_charging_stages.png)
+![Battery Charging Phases](Charging_profile.png)
 
 ---
 
