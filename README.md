@@ -1,5 +1,5 @@
 # High-Efficiency Buck Converter Design with SiC MOSFETs for Solar Applications  
-![Work in Progress](https://img.shields.io/badge/status-work%20in%20progress-brightgreen?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Need%20More%20Updates-orange)
 
 ### MATLAB/Simulink Simulation Project
 
